@@ -3,7 +3,7 @@
 # See the Solarized homepage for details:
 # http://ethanschoonover.com/solarized
 #
-                   # SOLARIZED HEX     16/8 TERMCOL   L*A*B     
+                   # SOLARIZED HEX     16/8 TERMCOL   L*A*B
                    # --------- ------- ---- --------- ----------
  base03="#002b36"  # base03    #002b36  8/4 brblack   15 -12 -12
  base02="#073642"  # base02    #073642  0/4 black     20 -12 -12
@@ -28,7 +28,7 @@ cursor="$base1"
 mouse_background="$base02"
 mouse_foreground="$base1"
 highlight="$base02"
-border="$base03"
+#border="$base03"
 
  color0="$base02"  # black
  color8="$base03"  # brblack
